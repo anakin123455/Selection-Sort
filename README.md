@@ -111,7 +111,7 @@ Sorted array:
 12  34  45  78  89
 ```
 
-## Limitations / Limity
+## Limitations / Limity:
 - The size of the array must be a positive integer.
 - The minimum range value must be less than or equal to the maximum range value.
 
